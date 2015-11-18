@@ -3,9 +3,7 @@ __author__ = 'nicholasstellitano'
 # Euler Problem 3: The prime factors of 13195 are 5, 7, 13 and 29.
 # What is the largest prime factor of the number 600851475143 ?
 
-# Prime numbers are odd (except for the number 2) and a prime factor should be equal or less than half of 600851475143
-# If we utilize a list of odd numbers and eliminate all numbers that are not prime, we can then identify the largest
-# prime factor.  The index of a list can determine what the value is 2i + 1 : for example [2,3,5,7,9] 2(3)+1 = 7
+# Prime numbers are odd (except for the number 2) and a prime factor should be equal or less than the sqrt of 600851475143
 # The is_prime function was copied from: https://www.daniweb.com/programming/software-development/code/216880/check-if-a-number-is-a-prime-number-python
 
 def is_prime(n):
