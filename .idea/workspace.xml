@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d0b37da-cc35-4aed-b5e7-098f7799c9ed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Problem_6/Euler_Prob_6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Problem_7/Euler_Prob_7.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Euler-Project.iws" />
@@ -17,9 +17,10 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Euler-Project$Euler_Prob_6.coverage" NAME="Euler_Prob_6 Coverage Results" MODIFIED="1448226575648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_6" />
+    <SUITE FILE_PATH="coverage/Euler-Project$Euler_Prob_6.coverage" NAME="Euler_Prob_6 Coverage Results" MODIFIED="1448503161825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_6" />
     <SUITE FILE_PATH="coverage/Euler-Project$Euler_Prob_2.coverage" NAME="Euler_Prob_2 Coverage Results" MODIFIED="1447121932469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_2" />
     <SUITE FILE_PATH="coverage/Euler-Project$GCD_test.coverage" NAME="GCD_test Coverage Results" MODIFIED="1447361684755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Euler-Project$Euler_Prob_7.coverage" NAME="Euler_Prob_7 Coverage Results" MODIFIED="1448580212184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_7" />
     <SUITE FILE_PATH="coverage/Euler-Project$Euler_Prob_5.coverage" NAME="Euler_Prob_5 Coverage Results" MODIFIED="1448155943930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_5" />
     <SUITE FILE_PATH="coverage/Euler-Project$Euler_Prob_4.coverage" NAME="Euler_Prob_4 Coverage Results" MODIFIED="1448154358132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_4" />
     <SUITE FILE_PATH="coverage/Euler-Project$Euler_Prob_3.coverage" NAME="Euler_Prob_3 Coverage Results" MODIFIED="1447813605805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_3" />
@@ -33,11 +34,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Euler_Prob_6.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Problem_6/Euler_Prob_6.py">
+      <file leaf-file-name="Euler_Prob_7.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Problem_7/Euler_Prob_7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46721312">
-              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.44262296">
+              <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -65,6 +66,7 @@
         <option value="$PROJECT_DIR$/Problem_4/Euler_Prob_4" />
         <option value="$PROJECT_DIR$/Problem_5/Euler_Prob_5.py" />
         <option value="$PROJECT_DIR$/Problem_6/Euler_Prob_6.py" />
+        <option value="$PROJECT_DIR$/Problem_7/Euler_Prob_7.py" />
       </list>
     </option>
   </component>
@@ -76,7 +78,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="44" />
+    <option name="x" value="49" />
     <option name="y" value="23" />
     <option name="width" value="1636" />
     <option name="height" value="1027" />
@@ -120,6 +122,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Euler-Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Euler-Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Euler-Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem_7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -210,7 +226,7 @@
       <recent name="$PROJECT_DIR$/Problem_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Euler_Prob_6">
+  <component name="RunManager" selected="Python.Euler_Prob_7">
     <configuration default="false" name="Euler_Prob_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,24 +241,6 @@
       <module name="Euler-Project" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_3/Euler_Prob_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="GCD_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Euler-Project" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GCD_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -297,6 +295,24 @@
       <module name="Euler-Project" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_6/Euler_Prob_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Euler_Prob_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem_7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Euler-Project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_7/Euler_Prob_7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -491,18 +507,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.Euler_Prob_3" />
-      <item index="1" class="java.lang.String" itemvalue="Python.GCD_test" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Euler_Prob_4" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Euler_Prob_5" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Euler_Prob_6" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Euler_Prob_4" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Euler_Prob_5" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Euler_Prob_6" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Euler_Prob_7" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Euler_Prob_6" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Euler_Prob_5" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Euler_Prob_4" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Euler_Prob_3" />
-        <item index="4" class="java.lang.String" itemvalue="Python.GCD_test" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Euler_Prob_7" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Euler_Prob_6" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Euler_Prob_5" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Euler_Prob_4" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Euler_Prob_3" />
       </list>
     </recent_temporary>
   </component>
@@ -541,12 +557,18 @@
       <option name="project" value="LOCAL" />
       <updated>1448155973974</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Problem 6">
+      <created>1448226596434</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1448226596434</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="23" width="1636" height="1027" extended-state="6" />
-    <editor active="true" />
+    <frame x="49" y="23" width="1636" height="1027" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -560,7 +582,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24938875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32985386" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32985386" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -586,7 +608,8 @@
     <MESSAGE value="Project 3" />
     <MESSAGE value="Problem 4" />
     <MESSAGE value="Problem 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 5" />
+    <MESSAGE value="Problem 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -623,13 +646,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problem_2/Euler_Prob_2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19438446">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Problem_3/Euler_Prob_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.08099352">
@@ -654,10 +670,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Problem_2/Euler_Prob_2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29508197">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Problem_6/Euler_Prob_6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46721312">
           <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem_7/Euler_Prob_7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44262296">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
           <folding />
         </state>
       </provider>
